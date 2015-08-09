@@ -1,0 +1,21 @@
+{
+    "name": "mivan/region",
+    "description": "地区",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ethan.lu",
+            "email": "ethan.lu@qq.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "mivan\\region\\": ""
+        }
+    }
+}
