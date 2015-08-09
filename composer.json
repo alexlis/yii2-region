@@ -10,9 +10,6 @@
             "email": "ethan.lu@qq.com"
         }
     ],
-    "require": {
-        "yiisoft/yii2": "*"
-    },
     "autoload": {
         "psr-4": {
             "mivan\\region\\": ""
