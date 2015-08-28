@@ -1,6 +1,6 @@
 <?php
 
-namespace mivan\region;
+namespace mivans\region;
 use yii\base\Widget;
 
 class Region extends Widget

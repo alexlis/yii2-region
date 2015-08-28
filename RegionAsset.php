@@ -26,7 +26,7 @@
  * 
  */
 
-namespace mivan\region;
+namespace mivans\region;
 
 use yii\web\AssetBundle;
 

@@ -1,7 +1,7 @@
 <?php
 
 // 注册JS
-\mivan\region\RegionAsset::register($this);
+\mivans\region\RegionAsset::register($this);
 ?>
 <div class="form-group">
 
